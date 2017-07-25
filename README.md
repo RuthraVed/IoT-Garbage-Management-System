@@ -22,7 +22,7 @@ Technologies used for the Web App are :
   * **[DAO Design Pattern]** throughout the application.
   * This project was done local server managed by the [XAMPP].
   * Database used was **MY SQL**, again managed by _PHPMyAdmin_
-  * It also a 'projectdb.sql' file, an exported sql file which can be be imported to have the same structured database. 
+  * It also a 'DEMO_IOT.sql' file, an exported sql file which can be be imported to have the same structured database. 
   
   
 [//]: # 
